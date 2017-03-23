@@ -1,2 +1,2 @@
 # dashvee
-a document auto generator that is more useful than necessary
+a document auto generator that is way more useful than necessary
