@@ -5,3 +5,6 @@ python:
 
 script: 
   - python dashvee.py
+
+notifications:
+  slack: dashvee:YX32dQZr3o4rMnuSr6Vz9ePE
